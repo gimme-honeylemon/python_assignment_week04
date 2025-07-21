@@ -1,5 +1,5 @@
-def original(major):
-    return major
+def original(sample_string):
+    return sample_string
 def reverse_string(s):
     return s[::-1]  
 def capitalize_string(s):
